@@ -1,0 +1,1 @@
+Este texto será insertado en el archivo hola.txt x2

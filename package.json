@@ -1,0 +1,19 @@
+{
+  "name": "mi-primer-proyecto-de-node",
+  "version": "1.0.0",
+  "description": "Mi primer proyecto de Node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo 'testeando'",
+    "dev": "echo 'estamos en modo desarrollo'"
+  },
+  "keywords": [
+    "kodemia"
+  ],
+  "author": "JRamosZ",
+  "license": "ISC",
+  "dependencies": {
+    "yargs-parser": "^21.1.1"
+  }
+}

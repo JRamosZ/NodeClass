@@ -1,0 +1,1 @@
+console.log("Este es el archivo index.js desde la carpeta directory")
